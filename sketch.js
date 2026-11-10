@@ -18,11 +18,11 @@ async function setup() {
   createCanvas(windowWidth, windowHeight);
   playButton = '#295a29'
     img = await loadImage('play.png')
-     bass = await loadSound('song/bass.mp3'),
-  fx = await loadSound('song/fx.mp3'),
-  drums = await loadSound('song/drums.mp3'),
-  vocals = await  loadSound( 'song/vocals.mp3'),
-  piano = await loadSound('song/piano.mp3')
+     bass = await loadSound('compressed audio/bass.mp3'),
+  fx = await loadSound('compressed audio/fx.mp3'),
+  drums = await loadSound('compressed audio/drums.mp3'),
+  vocals = await  loadSound( 'compressed audio/vocals.mp3'),
+  piano = await loadSound('compressed audio/piano.mp3')
 
 }
 
