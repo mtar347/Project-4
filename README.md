@@ -11,6 +11,7 @@ PROJECT HERE -----> https://editor.p5js.org/S9R7L/sketches/SA2YTRazN
 
 # Inspiration 
 The main idea was a MIDI board that would play the song and cut out certain parts to hear certain sections of the song chosen, functionality was the main focus when making the piece.
+
 <img src='board" width = "200" height = "100">
 
 
