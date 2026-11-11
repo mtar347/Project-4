@@ -32,6 +32,8 @@ The main issue was adapting a button to allow it to play the 5 sound files at th
     <figcaption>With the finishing touch and finished functionality with extra designs </figcaption>
 </figure>
 
+Once we looked through the references for audio based sketches it made way more sense in how to make it work and how to set up the board in a simplistic but functional way.
+
 # References 
 
 https://p5js.org/reference/p5.MediaElement/stop/
