@@ -14,6 +14,12 @@ The main idea was a MIDI board that would play the song and cut out certain part
 
 <img src="midi.jpeg" width = "200" height = "100">
 
+# Technical process
+
+The main issue was adapting a button to allow it to play the 5 sound files at the same time and implement a mute function for the set up with took trial and error
+
+<img src "
+
 
 
 
