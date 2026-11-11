@@ -17,11 +17,20 @@ The main idea was a MIDI board that would play the song and cut out certain part
 # Technical process
 
 The main issue was adapting a button to allow it to play the 5 sound files at the same time and implement a mute function for the set up with took trial and error
-
-<img src "
-
-
-
+<figure>
+    <img src="start.gif"
+         alt="start">
+    <figcaption>The first implemented idea</figcaption>
+</figure>
+    <img src="early.gif"
+         alt="next step">
+    <figcaption>Once the music was established and was playing music with a mouse click</figcaption>
+</figure>
+<figure>
+    <img src="final.gif"
+         alt="final">
+    <figcaption>With the finishing touch and finished functionality with extra designs </figcaption>
+</figure>
 
 # References 
 
